@@ -1,5 +1,5 @@
 
-# Práctica de Algoritmos de Ordenamiento
+# Practica de Grafos
 
 ## 📌 Información General
 
