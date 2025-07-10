@@ -35,4 +35,4 @@ Para ejecutar el proyecto:
 ---
 ## Resultado
 
-![Resultado de Ejecución](resultado-avl.PNG)
+![Resultado de Ejecución](grafos.png)
